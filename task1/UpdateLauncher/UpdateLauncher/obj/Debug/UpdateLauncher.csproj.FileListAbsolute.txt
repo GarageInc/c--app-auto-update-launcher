@@ -1,0 +1,6 @@
+C:\Users\9-b-r_000\Desktop\UpdateLauncher\UpdateLauncher\bin\Debug\UpdateLauncher.exe.config
+C:\Users\9-b-r_000\Desktop\UpdateLauncher\UpdateLauncher\bin\Debug\UpdateLauncher.exe
+C:\Users\9-b-r_000\Desktop\UpdateLauncher\UpdateLauncher\bin\Debug\UpdateLauncher.pdb
+C:\Users\9-b-r_000\Desktop\UpdateLauncher\UpdateLauncher\obj\Debug\UpdateLauncher.csprojResolveAssemblyReference.cache
+C:\Users\9-b-r_000\Desktop\UpdateLauncher\UpdateLauncher\obj\Debug\UpdateLauncher.exe
+C:\Users\9-b-r_000\Desktop\UpdateLauncher\UpdateLauncher\obj\Debug\UpdateLauncher.pdb

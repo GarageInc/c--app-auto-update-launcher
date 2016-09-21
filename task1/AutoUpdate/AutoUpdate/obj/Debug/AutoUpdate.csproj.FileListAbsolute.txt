@@ -1,0 +1,14 @@
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\MainWindow.g.cs
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\App.g.cs
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate_MarkupCompile.cache
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate_MarkupCompile.lref
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\MainWindow.baml
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.g.resources
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+C:\Users\9-b-r_000\Desktop\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
